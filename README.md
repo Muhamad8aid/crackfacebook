@@ -1,2 +1,0 @@
-# crackfacebook
-Python
